@@ -10,7 +10,7 @@ jobs:
     runs-on: ubantu-latest
     steps:
       - name: check out code
-        use: actions/checkout@v4
+        uses: actions/checkout@v4
       - name: Setup Node js Envirorment
         uses: actions/setup-node@v4
         with:
