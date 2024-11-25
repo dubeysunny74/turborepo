@@ -1,0 +1,1 @@
+{"version":3,"file":"products.service.d.ts","sourceRoot":"","sources":["../../src/products/products.service.ts"],"names":[],"mappings":"AACA,OAAO,EAAC,oBAAoB,EAAC,OAAO,EAAC,MAAM,aAAa,CAAA;AAExD,qBACa,eAAe;IACxB,OAAO,CAAC,QAAQ,CAAC,QAAQ,CAAgB;IAEzC,aAAa,CAAC,oBAAoB,EAAC,oBAAoB;IAWvD,WAAW;CAId"}
