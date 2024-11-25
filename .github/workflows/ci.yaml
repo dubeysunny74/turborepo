@@ -8,7 +8,7 @@ jobs:
   build:
     name: Build and Test
     runs-on: ubantu-latest
-    step:
+    steps:
       - name: check out code
         use: actions/checkout@v4
       - name: Setup Node js Envirorment
