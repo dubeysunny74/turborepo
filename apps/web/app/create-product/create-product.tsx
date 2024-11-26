@@ -6,12 +6,11 @@ export default async function CreateProduct() {
         <div>
             <form action={createProduct}>
                 <div>
-                    <label htmlFor="name"> Name:</label>
+                    <label htmlFor="name"> Name :</label>
                     <input type="text" name ="name" id="price" />
                 </div>
-
                 <div>
-                    <label htmlFor="price"> Price:</label>
+                    <label htmlFor="price"> Price : </label>
                     <input type="number" name ="price" id="price" />
                 </div>
                  <button type="submit">
