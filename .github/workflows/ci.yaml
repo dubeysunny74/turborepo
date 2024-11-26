@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     name: Build and Test
-    runs-on: ubantu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: check out code
         uses: actions/checkout@v4
